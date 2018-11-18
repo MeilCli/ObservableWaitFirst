@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ObservableWaitFirst", "ObservableWaitFirst\ObservableWaitFirst.csproj", "{BE0491B6-796B-4F89-86C8-ABF438EF2CF5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ObservableWaitFirst.Test", "ObservableWaitFirst.Test\ObservableWaitFirst.Test.csproj", "{9C4807C0-B98E-4223-B1FD-86761C270592}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C29CC08C-4D37-4254-8CA9-14767FBFEC74}"
+	ProjectSection(SolutionItems) = preProject
+		LICENSE.txt = LICENSE.txt
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE0491B6-796B-4F89-86C8-ABF438EF2CF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE0491B6-796B-4F89-86C8-ABF438EF2CF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE0491B6-796B-4F89-86C8-ABF438EF2CF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE0491B6-796B-4F89-86C8-ABF438EF2CF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C4807C0-B98E-4223-B1FD-86761C270592}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C4807C0-B98E-4223-B1FD-86761C270592}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C4807C0-B98E-4223-B1FD-86761C270592}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C4807C0-B98E-4223-B1FD-86761C270592}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE74B775-9BAA-4125-85BC-C4F7113578DD}
+	EndGlobalSection
+EndGlobal
