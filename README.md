@@ -11,4 +11,4 @@ var result = await observable.WaitFirst();
 
 *WaitFirst* is using Awaitable-pattern, not using Task-Like pattern.
 
-see also [ObservableWaitFirst project](/ObjservableWaitFirst).
+see also ObservableWaitFirst project.
